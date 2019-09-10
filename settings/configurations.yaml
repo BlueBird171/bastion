@@ -6,7 +6,7 @@ shardCount: 1
 # the same until the database is deleted.
 # Although, you can use the `setPrefix` command to change server speific prefix.
 prefix:
-  - "#!"
+  - "."
 
 # Default status of Bastion.
 # Valid values are `online`, `idle`, `dnd` and `invisible`/
