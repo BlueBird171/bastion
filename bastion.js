@@ -57,7 +57,7 @@ BASTION.database.authenticate().then(() => {
   BASTION.aliases = Modules.aliases;
 
   // Start Bastion
-  BASTION.login(BASTION.credentials.token).then(() => {
+  BASTION.login("NTQ1OTc5MzE4ODc1MDYyMjkw.XXdhxQ.LtTZriSv4Gf3CTGRpQLeDknNXV8").then(() => {
     /**
      * Using <Model>.findOrCreate() won't require the use of
      * <ModelInstance>.save() but <Model>.findOrBuild() is used instead because
