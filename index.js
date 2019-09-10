@@ -17,7 +17,7 @@ const credentials = YAML.parse(credentialsFile);
 
 const Manager = new Tesseract.ShardingManager('./bastion.js', {
   totalShards: configurations.shardCount,
-  token: credentials.token
+  token: "NTQ1OTc5MzE4ODc1MDYyMjkw.XXdhxQ.LtTZriSv4Gf3CTGRpQLeDknNXV8"
 });
 const log = xrequire('./handlers/logHandler');
 
