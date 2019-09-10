@@ -3,7 +3,7 @@ const path = require('path');
 /*
  * Constants
  */
-global.BASTION_CLIENT_ID = '267035345537728512';
+global.BASTION_CLIENT_ID = '545979318875062290';
 
 /*
  * xrequire - Same as `require` (https://nodejs.org/api/modules.html#modules_require)
